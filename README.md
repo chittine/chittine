@@ -90,4 +90,4 @@ Built a vulnerability analysis dashboard integrating automated OWASP ZAP scans, 
 ## Contact
 
 GitHub: https://github.com/chittine
-LinkedIn: ADD_LINK_HERE
+LinkedIn: https://www.linkedin.com/in/ananya-chittineni-3934161a6/
